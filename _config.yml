@@ -1,0 +1,28 @@
+name: Hudson
+favicon: null
+layout_spectrum: 0.9779836253728718
+typography_spectrum: 0.7699170706328005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8878090421203524
+  lightness: 0.02287794044241309
+  saturation: 0.20450049987994134
+  rhythmicContrast: 0.8036624563392252
+purpose: []
